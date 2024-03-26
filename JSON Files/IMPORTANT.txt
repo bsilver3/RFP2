@@ -1,0 +1,2 @@
+IMPORTANT NOTE:
+All of the JSON files that were here were analyzed in JSON_to_CSV.ipynb to allow for storage saving and exported to csv files.
